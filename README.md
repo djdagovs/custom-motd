@@ -1,7 +1,7 @@
 custom-motd
 ===========
 
-Custom motd (message of the day) for any *nix system!
+Custom motd (message of the day) generator script!
 
 
 How it looks like
